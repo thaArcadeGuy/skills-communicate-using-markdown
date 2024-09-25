@@ -5,4 +5,18 @@
 ##### This is an `H5` markdown Heading.
 ###### This is an `H6` markdown Heading.
 
+## Adding an image.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Adding a code example
+
+### Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
